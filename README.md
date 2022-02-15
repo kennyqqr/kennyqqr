@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kennyqqr
+- 👀 I’m interested in design system architect and developing
+- 🌱 I’m currently learning python with flask
